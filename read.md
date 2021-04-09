@@ -2,4 +2,4 @@
 # Name: Hadush Hailu
 # Place: Tsukuba
 
-# I'm working as Master
+# master
