@@ -1,3 +1,0 @@
-# Hi
-# Hadush Hailu
-# wait!!!!
