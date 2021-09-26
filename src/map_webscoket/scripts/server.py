@@ -14,7 +14,7 @@ def connect(sid, environ):
     sio.emit('my_message', {'response': 'my response'}) 
 
 @sio.event
-def my_response(sid, data):
+def map_data(sid, data):
     print('Acknowledgment message ', data)
 
 @sio.event
